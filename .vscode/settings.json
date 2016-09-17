@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    // Basic scaffolding files
+    ".vscode/": false,
+    ".eslint*": false,
+    ".gitignore": false,
+    ".stylelintrc": false,
+    "typings": false,
+    "typings.json": false,
+    "jsconfig.json": false,
+    // Project files
+    "node_modules": false,
+    "README.md": false,
+    "package.json": false
+  }
+}
+// Project specific files
